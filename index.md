@@ -11,3 +11,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+###### Add task list in my index.md file
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] this item is wip
+- [ ] This item is not complete
