@@ -6,3 +6,8 @@
 
 
 ![Image of Yaktocat From me](https://octodex.github.com/images/yaktocat.png)
+
+###### Add code im my index.md file
+``` javascript
+var myVar = "Hello, world!";
+```
